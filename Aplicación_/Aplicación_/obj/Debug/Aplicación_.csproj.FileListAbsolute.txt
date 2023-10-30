@@ -1,0 +1,5 @@
+D:\7\Aplicación_\Aplicación_\obj\Debug\Aplicación_.csproj.AssemblyReference.cache
+D:\7\Aplicación_\Aplicación_\obj\Debug\Aplicación_.Form1.resources
+D:\7\Aplicación_\Aplicación_\obj\Debug\Aplicación_.Properties.Resources.resources
+D:\7\Aplicación_\Aplicación_\obj\Debug\Aplicación_.csproj.GenerateResource.cache
+D:\7\Aplicación_\Aplicación_\obj\Debug\Aplicación_.csproj.CoreCompileInputs.cache
